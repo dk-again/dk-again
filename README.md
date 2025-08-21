@@ -6,9 +6,4 @@ Welcome to my GitHub profile! I'm a mobile developer passionate about building b
 
 ### 🌐 About Me
 
-* 💻 I'm currently working with **Flutter** and **Dart** to develop mobile applications.
-* 🌱 I’m currently learning more about **[Technology you are learning, e.g., Firebase, Node.js]**.
-* 💬 Ask me about **Flutter** or any tech-related stuff!
-* ⚡ Fun fact: **[A fun fact about you]**.
-
----
+🔭 I’m currently working on Flutter. 🌱 I’m currently learning more about Flutter,Firebase,Nodejs. 💬 Ask me about Flutter or any tech-related stuff. 📫 How to reach me: Facebook- facebook/sabirdeveloper, 🚀 Youtube - Sabir Developer 😄 Pronouns: He/His ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
