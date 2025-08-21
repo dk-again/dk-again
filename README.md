@@ -1,41 +1,41 @@
-# Chào bạn, tôi là [Tên Của Bạn] 👋
+# Hi, I'm [Your Name] 👋
 
-Chào mừng bạn đến với hồ sơ GitHub của tôi! Tôi là một lập trình viên di động, đam mê xây dựng các ứng dụng đẹp và hiệu quả.
-
----
-
-### 🌐 Về tôi
-
-* 💻 Hiện tại tôi đang làm việc với **Flutter** và **Dart** để phát triển ứng dụng di động.
-* 🌱 Tôi đang học thêm về **[Công nghệ đang học, ví dụ: Firebase, Node.js]**.
-* 💬 Hãy liên hệ với tôi qua **[Cách liên hệ, ví dụ: Email của bạn, Facebook]**.
-* ⚡ Một sự thật thú vị: **[Một sự thật thú vị về bạn]**.
+Welcome to my GitHub profile! I'm a mobile developer passionate about building beautiful and efficient applications.
 
 ---
 
-### 🔗 Mạng xã hội
+### 🌐 About Me
+
+* 💻 I'm currently working with **Flutter** and **Dart** to develop mobile applications.
+* 🌱 I’m currently learning more about **[Technology you are learning, e.g., Firebase, Node.js]**.
+* 💬 Ask me about **Flutter** or any tech-related stuff!
+* ⚡ Fun fact: **[A fun fact about you]**.
+
+---
+
+### 🔗 Socials
 
 <p align="left">
-  <a href="[Link Facebook của bạn]" target="_blank">
+  <a href="[Your Facebook Link]" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="[Link Instagram của bạn]" target="_blank">
+  <a href="[Your Instagram Link]" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="[Link LinkedIn của bạn]" target="_blank">
+  <a href="[Your LinkedIn Link]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[Link Twitter/X của bạn]" target="_blank">
+  <a href="[Your Twitter/X Link]" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
-  <a href="[Link YouTube của bạn]" target="_blank">
+  <a href="[Your YouTube Link]" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
 ---
 
-### 💻 Công nghệ tôi sử dụng
+### 💻 My Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
