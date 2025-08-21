@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ness 👋
 
 Welcome to my GitHub profile! I'm a mobile developer passionate about building beautiful and efficient applications.
 
